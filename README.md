@@ -1,4 +1,4 @@
-# Gojek Data Analyst Assignment
+# Data Analyst Assignment
 
 ## Take Home Assignment
 
